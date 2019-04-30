@@ -7,7 +7,7 @@ weight: 3
 
 ### GWK Pressemitteilung zu NFDI
 
-* [https://www.gwk-bonn.de/fileadmin/Redaktion/Dokumente/Pressemitteilungen/pm2018-13.pdf](Forschungsdaten nachhaltig sichern und nutzbar machen – Startschuss für eine Nationale Forschungsdateninfrastruktur)
+* [Forschungsdaten nachhaltig sichern und nutzbar machen – Startschuss für eine Nationale Forschungsdateninfrastruktur](https://www.gwk-bonn.de/fileadmin/Redaktion/Dokumente/Pressemitteilungen/pm2018-13.pdf)
 
 ### RSE4NFDI Extended Abstract
 
