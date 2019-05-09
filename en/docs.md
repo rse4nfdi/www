@@ -14,3 +14,7 @@ weight: 3
 
 * Official document: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2630451.svg)](https://doi.org/10.5281/zenodo.2630451)
 * (old) [development version using Google Docs](https://goo.gl/qZAZq2)
+
+### RSE4NFDI Poster
+
+* [PDF file](../assets/pdf/RSE4NFDI_Poster.pdf) (later: Zenodo)
