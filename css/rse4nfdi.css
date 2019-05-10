@@ -14,6 +14,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 
 .navbar-default {
     border-top: 5px solid #004da2;
+    margin-bottom: 0px;
 }
 
 .container-navbar {
@@ -53,6 +54,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 
 html, body {
     height: 100%;
+    padding-top: 20px;
 }
 
 .container {
@@ -148,9 +150,33 @@ blockquote {
   &:disabled {
     color: $dropdown-link-disabled-color;
     background-color: transparent;
-    // Remove CSS gradients if they're enabled
+    // Remove CSS gradients if they are enabled
     @if $enable-gradients {
       background-image: none;
     }
   }
+}
+
+.jumbotron {
+  position: relative;
+  color: #97316e;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 150px;
+  padding-top: 20px;
+}
+
+#particles-js {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  opacity: 0.5;
+}
+
+.bannerText {
+  padding-left: 50px;
 }

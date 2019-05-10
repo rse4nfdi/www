@@ -54,6 +54,18 @@
             <!--/.nav-collapse -->
         </div>
     </nav>
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container" id="particles-js"></div>
+      <div class="bannerText">
+        {% if page.title != nil %}
+          <h1 class="display-4">{{ page.title | escape }}</h1>
+        {% endif %}
+      </div>
+      <script src="/js/particles.min.js"></script>
+      <script>
+        particlesJS.load('particles-js', '/assets/particles.json');
+      </script>
+    </div>
     <div class="container">
         <div class="starter-template">
             {{ content }}

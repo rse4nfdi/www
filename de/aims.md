@@ -4,8 +4,6 @@ title: Ziele
 weight: 1
 ---        
 
-# Ziele
-
 RSE4NFDI zielt darauf ab, interdisziplinär die Nachhaltigkeit der Software im Rahmen des Forschungsdatenmanagements auf nationaler Ebene sicherzustellen. RSE4NFDI wendet sich an all diejenigen, die Forschungssoftware entwickeln und verwenden und dabei wissenschaftliche Daten erheben, bearbeiten, speichern und anbieten. Das Fachwissen und die angebotenen Unterstützungs- und Serviceleistungen werden durch die Entwicklung und Umsetzung von erforderlichen und allgemein akzeptierten Rahmenbedingungen ergänzt. Zusammen werden die RSE4NFDI-Aktivitäten einen nachhaltigen, den [FAIR-Prinzipien](https://www.go-fair.org/fair-principles/) entsprechenden Umgang mit Forschungssoftware gewährleisten.
 
 RSE4NFDI wird im Sinne des qualitätsgesicherten Forschungsdatenmanagement

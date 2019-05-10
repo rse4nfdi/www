@@ -3,7 +3,6 @@ layout: default
 title: Documents
 weight: 3
 ---
-## Documents
 
 ### GWK press release concerning NFDI
 
