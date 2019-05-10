@@ -54,7 +54,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 
 html, body {
     height: 100%;
-    padding-top: 20px;
+    padding-top: 23px;
 }
 
 .container {
@@ -164,7 +164,9 @@ blockquote {
   background-repeat: no-repeat;
   background-size: cover;
   height: 150px;
-  padding-top: 20px;
+  padding-top: 0px;
+  padding-bottom: 0;
+  margin-bottom: 0;
 }
 
 #particles-js {
@@ -179,4 +181,5 @@ blockquote {
 
 .bannerText {
   padding-left: 50px;
+  padding-top: 25px;
 }
