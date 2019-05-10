@@ -4,9 +4,11 @@ title: Documents
 weight: 3
 ---
 
-### RFII-Recommendations "Leistung aus Vielfalt"
+### Documents by the German Council for Scientific Information Infrastructures (RFII)
 
-* [RFII-Recommendations "Leistung aus Vielfalt", Mai 2016](http://www.rfii.de/?p=1998)
+* [Gesamtliste](http://www.rfii.de/en/dokuments/)
+
+* [RFII-Recommendations "Performance through diversity", May 2016](http://www.rfii.de/?p=2075)
 
 ### GWK press release concerning NFDI
 

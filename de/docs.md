@@ -4,7 +4,9 @@ title: Dokumente
 weight: 3
 ---
 
-### RFII-Empfehlungen "Leistung aus Vielfalt"
+### Dokumente des Rats für Informationsinfrastrukturen (RFII)
+
+* [Gesamtliste](http://www.rfii.de/de/dokumente/)
 
 * [RFII-Empfehlungen "Leistung aus Vielfalt", Mai 2016](http://www.rfii.de/?p=1998)
 
