@@ -10,9 +10,10 @@ weight: 3
 
 * [RFII-Empfehlungen "Leistung aus Vielfalt", Mai 2016](http://www.rfii.de/?p=1998)
 
-### GWK Pressemitteilung zu NFDI
+### Pressemitteilungen
 
-* [Forschungsdaten nachhaltig sichern und nutzbar machen – Startschuss für eine Nationale Forschungsdateninfrastruktur](https://www.gwk-bonn.de/fileadmin/Redaktion/Dokumente/Pressemitteilungen/pm2018-13.pdf)
+* GWK: [Forschungsdaten nachhaltig sichern und nutzbar machen – Startschuss für eine Nationale Forschungsdateninfrastruktur](https://www.gwk-bonn.de/fileadmin/Redaktion/Dokumente/Pressemitteilungen/pm2018-13.pdf)
+* [Direktorat der NFDI kommt ans KIT](https://idw-online.de/de/news715375)
 
 ### RSE4NFDI Extended Abstract
 

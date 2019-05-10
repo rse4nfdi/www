@@ -10,9 +10,10 @@ weight: 3
 
 * [RFII-Recommendations "Performance through diversity", May 2016](http://www.rfii.de/?p=2075)
 
-### GWK press release concerning NFDI
+### Press releases
 
-* [Sustainably secure research data and make them reusable - Starting shot for a national research data infrastructure](https://www.gwk-bonn.de/fileadmin/Redaktion/Dokumente/Pressemitteilungen/pm2018-13.pdf)
+* GWK: [Sustainably secure research data and make them reusable - Starting shot for a national research data infrastructure](https://www.gwk-bonn.de/fileadmin/Redaktion/Dokumente/Pressemitteilungen/pm2018-13.pdf)
+* [NFDI directorate will be established at KIT](https://idw-online.de/en/news715375)
 
 
 ### Extended Abstract
