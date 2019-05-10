@@ -4,6 +4,10 @@ title: Dokumente
 weight: 3
 ---
 
+### RFII-Empfehlungen "Leistung aus Vielfalt"
+
+* [RFII-Empfehlungen "Leistung aus Vielfalt", Mai 2016](http://www.rfii.de/?p=1998)
+
 ### GWK Pressemitteilung zu NFDI
 
 * [Forschungsdaten nachhaltig sichern und nutzbar machen – Startschuss für eine Nationale Forschungsdateninfrastruktur](https://www.gwk-bonn.de/fileadmin/Redaktion/Dokumente/Pressemitteilungen/pm2018-13.pdf)
