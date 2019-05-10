@@ -6,7 +6,7 @@ weight: 3
 
 ### Documents by the German Council for Scientific Information Infrastructures (RFII)
 
-* [Gesamtliste](http://www.rfii.de/en/dokuments/)
+* [Publication List](http://www.rfii.de/en/dokuments/)
 
 * [RFII-Recommendations "Performance through diversity", May 2016](http://www.rfii.de/?p=2075)
 
