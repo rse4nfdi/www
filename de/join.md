@@ -12,26 +12,9 @@ Jegliche Akteure die sich für die Nachhaltigkeit von Forschungssoftware einsetz
 Die verteilte Vorbereitung wird im Moment über gemeinsame Dokumente, eine Mailingliste, einen Chat und Telefonkonferenzen realisiert.
 
 Der aktuelle Zeitplan sieht im Moment so aus:
-* **Di, 30.4. 15:00 Uhr** Telefonkonferenz
-    * Statusbericht
-    * Aufgabenverteilung
-        * Poster
-        * Folien
-        * Webseite
-        * Statistiken aus Abstracts
-        * evtl. Literaturrecherche
-* **Fr, 3.5. 11:00 Uhr** Telefonkonferenz
-    * Stand Poster + Webseite
-* **Mo, 6.5. 8:00 Uhr** Telefonkonferenz
-    * Stand Abstracts + Poster + Statistiken + Webseite
-* **Mi, 8.5. 11:00 Uhr** Telefonkonferenz
-    * Deadline Abstracts + Poster + Statistiken, Stand Webseite
-* **Fr, 10.5. 9:00 Uhr** Telefonkonferenz
-    * Deadline Folen, Stand Webseite
-* **13.-14. Mai 2019**, NFDI-Konferenz
-* **Juni 2019**, Veröffentlichung der Ausschreibung
-* **Juni/Juli 2019**, Frist für Einreichung von verbindlichen Absichtserklärungen
-* **Oktober 2019**, Frist für Einreichung von Anträgen
+* **6. Juni 2019**, Veröffentlichung der Ausschreibung
+* **Juni/Juli 2019**, Frist für Einreichung von Absichtserklärungen
+* **Oktober 2019**, Frist für Einreichung von Anträgen 2019
 
 ### Mailingliste
 

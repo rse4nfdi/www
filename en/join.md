@@ -10,24 +10,7 @@ Any stakeholders advocating for the sustainability of research software or are d
 ## Participation
 The distributed preparation is currently realized through shared documents, a mail-distribution-list, a chat and telephone conferences.
 The up-to-date timetable currently looks like this:
-* Tue, 30.4. 15:00 pm telephone conference
-  * Status report
-  * Distribution of tasks
-    * Poster
-    * Slides
-    * Website
-    * Statistics from abstracts
-    * Potentially literature research
-* **Fri, 3.5., 11:00** am telephone conference
-  * State poster + website
-* **Mon, 6.5. 8:00** am telephone conference
-  * State abstracts + poster + statistics + website
-* **Wed, 8.5. 11:00** am telephone conference
-  * Deadline abstracts + poster + statistics, state website
-* **Fri, 10.5. 9:00** am telephone conference
-  * Deadline slides, state website
-* **13.-14. May 2019**, NFDI-conference
-* **June 2019**, Publishing the call for submissions
+* **June 6th 2019**, Publishing the call for submissions
 * **June/July 2019**, deadline for submitting mandatory declarations of intent
 * **October 2019**, deadline for submitting proposals
 
