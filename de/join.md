@@ -13,7 +13,7 @@ Die verteilte Vorbereitung wird im Moment über gemeinsame Dokumente, eine Maili
 
 Der aktuelle Zeitplan sieht im Moment so aus:
 * **6. Juni 2019**, Veröffentlichung der Ausschreibung
-* **20. Juni 2019**, 9:00 Uhr: Community Call
+* **27. Juni 2019**, 9:00 Uhr: Community Call
 * **Juni/Juli 2019**, Frist für Einreichung von Absichtserklärungen
 * **Oktober 2019**, Frist für Einreichung von Anträgen 2019
 
