@@ -11,7 +11,7 @@ Any stakeholders advocating for the sustainability of research software or are d
 The distributed preparation is currently realized through shared documents, a mail-distribution-list, a chat and telephone conferences.
 The up-to-date timetable currently looks like this:
 * **June 6th 2019**, Publishing the call for submissions
-* **27. Juni 2019**, 9am: community call
+* **1. Juli 2019**, 8am: community call
 * **June/July 2019**, deadline for submitting mandatory declarations of intent
 * **October 2019**, deadline for submitting proposals
 
