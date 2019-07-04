@@ -22,3 +22,9 @@ weight: 3
 ### RSE4NFDI Poster
 
 * [PDF-Datei](../assets/pdf/RSE4NFDI_Poster.pdf) (später: Zenodo)
+
+### NFDI4RSE Absichtserklärung (Englisch)
+
+* [PDF-Datei](../assets/pdf/NFDI4RSE_LoI.pdf) (später: Zenodo)
+* [LaTeX-Source Repository](https://github.com/DE-RSE/NFDI4RSE_LoI)
+

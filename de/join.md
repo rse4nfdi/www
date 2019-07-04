@@ -5,21 +5,21 @@ weight: 2
 ---
 ## Einladung zur Teilnahme
 
-Jegliche Akteure die sich für die Nachhaltigkeit von Forschungssoftware einsetzen bzw. auf diese angewiesen sind, sind herzlich eingeladen, bei RSE4NFDI mitzuwirken.
+Jegliche Akteure die sich für die Nachhaltigkeit von Forschungssoftware einsetzen bzw. auf diese angewiesen sind, sind herzlich eingeladen, bei NFDI4RSE mitzuwirken.
 
 ## Mitarbeit
 
 Die verteilte Vorbereitung wird im Moment über gemeinsame Dokumente, eine Mailingliste, einen Chat und Telefonkonferenzen realisiert.
 
 Der aktuelle Zeitplan sieht im Moment so aus:
-* **6. Juni 2019**, Veröffentlichung der Ausschreibung
-* **1. Juli 2019**, 8:00 Uhr: Community Call
-* **Juni/Juli 2019**, Frist für Einreichung von Absichtserklärungen
-* **Oktober 2019**, Frist für Einreichung von Anträgen 2019
+* **4. Juli 2019**, Einreichung der Absichtserklärung (erledigt)
+* **Sommer 2019**, intensive Gespräche mit anderen Konsortien
+* **Oktober 2019**, Erstellung eines Positionspapieres des Konsortiums
+* **Oktober 2020**, Frist für Einreichung von Anträgen 2020
 
 ### Mailingliste
 
-Schriftlich wird über die Mailingliste ***rse4nfdi@de-rse.org*** kommuniziert. Anmelden kann man sich dazu unter:
+Schriftlich wird über die Mailingliste ***rse4nfdi@de-rse.org*** kommuniziert (benutzt noch das alte Kürzel, nicht verwirren lassen). Anmelden kann man sich dazu unter:
 
 [https://ml-cgn06.ispgateway.de/mailman/listinfo/rse4nfdi_de-rse.org](https://ml-cgn06.ispgateway.de/mailman/listinfo/rse4nfdi_de-rse.org)
 

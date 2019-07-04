@@ -23,3 +23,9 @@ weight: 3
 ### RSE4NFDI Poster
 
 * [PDF file](../assets/pdf/RSE4NFDI_Poster.pdf) (later: Zenodo)
+
+### NFDI4RSE Letter of Intent
+
+* [PDF file](../assets/pdf/NFDI4RSE_LoI.pdf) (später: Zenodo)
+* [LaTeX source repository](https://github.com/DE-RSE/NFDI4RSE_LoI)
+
