@@ -18,9 +18,10 @@ The up-to-date timetable currently looks like this:
 ## Mail-Distribution-List
 Written communication is realized through the mail-distribution-list ***rse4nfdi@de-rse.org*** (note: this still uses the old acronym, don't get confused). Registration is possible through:
 [https://ml-cgn06.ispgateway.de/mailman/listinfo/rse4nfdi_de-rse.org](https://ml-cgn06.ispgateway.de/mailman/listinfo/rse4nfdi_de-rse.org)
-Chat
+
+## Chat
 Discussion is quicker and livelier in GWDG’s Rocketchat:
-[https://chat.gwdg.de/channel/rse4nfdi](https://chat.gwdg.de/channel/rse4nfdi)
+[https://chat.gwdg.de/channel/nfdi4rse](https://chat.gwdg.de/channel/nfdi4rse)
 
 ## Telephone Conference
 
