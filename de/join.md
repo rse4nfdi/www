@@ -27,7 +27,7 @@ Schriftlich wird über die Mailingliste ***rse4nfdi@de-rse.org*** kommuniziert (
 
 Schneller und lebhafter wird im Rocketchat der GWDG diskutiert:
 
-[https://chat.gwdg.de/channel/rse4nfdi](https://chat.gwdg.de/channel/rse4nfdi)
+[https://chat.gwdg.de/channel/nfdi4rse](https://chat.gwdg.de/channel/nfdi4rse)
 
 ### Telefonkonferenz
 
