@@ -10,8 +10,7 @@ Any stakeholders advocating for the sustainability of research software or are d
 ## Participation
 The distributed preparation is currently realized through shared documents, a mail-distribution-list, a chat and telephone conferences.
 The up-to-date timetable currently looks like this:
-* **4. Juli 2019**, declarations of intent submitted (done)
-* **summer 2019**, intense discussions with other consortia
+* **October 2019**, intense discussions with other consortia
 * **October 2019**, publication of a position paper
 * **October 2020**, deadline for submitting proposals 2020
 

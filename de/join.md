@@ -12,8 +12,7 @@ Jegliche Akteure die sich für die Nachhaltigkeit von Forschungssoftware einsetz
 Die verteilte Vorbereitung wird im Moment über gemeinsame Dokumente, eine Mailingliste, einen Chat und Telefonkonferenzen realisiert.
 
 Der aktuelle Zeitplan sieht im Moment so aus:
-* **4. Juli 2019**, Einreichung der Absichtserklärung (erledigt)
-* **Sommer 2019**, intensive Gespräche mit anderen Konsortien
+* **Oktober 2019**, intensive Gespräche mit anderen Konsortien
 * **Oktober 2019**, Erstellung eines Positionspapieres des Konsortiums
 * **Oktober 2020**, Frist für Einreichung von Anträgen 2020
 
