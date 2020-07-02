@@ -1,4 +1,4 @@
-# www.de-rse.org hosting repository
+# www.rse4nfdi.de hosting repository
 
 This repository contains the source files for the RSE4NFDI website. Its official hosting URL is <https://www.rse4nfdi.de>.
 
